@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Capsule Render Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samridhi%20Narang&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%2FAI%20Explorer&descSize=18&descAlignY=58&descColor=a8d8ea)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samridhi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Explorer&descSize=18&descAlignY=58&descColor=a8d8ea)
 
 <!-- Visitor counter + profile views -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=samridhi611&color=2c5364&style=flat-square&label=Profile+Views)
