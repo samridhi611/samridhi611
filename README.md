@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Capsule Render Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samridhi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Explorer&descSize=18&descAlignY=58&descColor=a8d8ea)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samridhi%20Narang&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%2FAI%20Explorer&descSize=18&descAlignY=58&descColor=a8d8ea)
 
-<!-- Visitor counter + profile views -->
-![Visitor Count](https://komarev.com/ghpvc/?username=samridhi611&color=2c5364&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samridhi%20Narang-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samridhi6112/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-samridhi--narang.vercel.app-2c5364?style=flat-square&logo=vercel&logoColor=white)](https://samridhi-narang.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-2c5364?style=flat-square&logo=vercel&logoColor=white)](https://samridhi-narang.vercel.app/)
+![Visitor Count](https://komarev.com/ghpvc/?username=samridhi611&color=2c5364&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -14,13 +12,14 @@
 
 ## 👩‍💻 About Me
 
-Hi there! I'm **Samridhi**, a Full Stack Developer with a passion for building clean, scalable web applications — and currently diving deep into the world of **Machine Learning & AI**.
+I'm **Samridhi**, a Full Stack Developer who builds production-grade web applications — from polished frontends to scalable backend systems.
 
-- 🔭 &nbsp;I work across the full stack — from pixel-perfect frontends to robust backend APIs
-- 🌱 &nbsp;Currently exploring **ML/AI** — bridging software engineering with intelligent systems
-- 🛠️ &nbsp;I love turning complex problems into elegant, user-friendly solutions
-- 🤝 &nbsp;Open to collaborations on interesting web and AI projects
-- 📬 &nbsp;Let's connect on [LinkedIn](https://www.linkedin.com/in/samridhi6112/) or check out my [Portfolio](https://samridhi-narang.vercel.app/)
+Most of my work lives under **NDAs and private client repositories**, so my GitHub activity doesn't reflect the full picture. What it *does* reflect: a developer who's been heads-down shipping real products for real clients.
+
+- 💼 &nbsp;I build full-stack apps across a range of industries — **details live in my portfolio**
+- 🌱 &nbsp;Currently expanding into **Machine Learning & AI** — bridging engineering with intelligent systems
+- 🧩 &nbsp;I enjoy working across the entire stack — UI, APIs, databases, CMS, and deployment
+- 🤝 &nbsp;Open to freelance, collaborations, or full-time opportunities
 
 ---
 
@@ -47,40 +46,38 @@ Hi there! I'm **Samridhi**, a Full Stack Developer with a passion for building c
 
 ---
 
-## 📊 GitHub Stats
+## 💡 How I Work
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samridhi611&show_icons=true&theme=nord&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samridhi611&layout=compact&theme=nord&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=samridhi611&theme=nord&hide_border=true)
-
-</div>
+```text
+Frontend      ████████████████████░   React · Next.js · WordPress
+Backend       ████████████████████░   Node.js · NestJS · Python · Strapi
+Database      ████████████████████░   MongoDB · SQL
+CMS & APIs    ████████████████████░   Strapi · REST · Headless CMS
+ML / AI       ████████░░░░░░░░░░░░░   Learning & Growing 🚀
+```
 
 ---
 
-## 🚀 Featured Projects
+## 🔒 A Note on My Work
 
-> ⭐ *Check out my pinned repositories below for my latest work in web development and AI/ML experiments.*
+> Most projects I've built are covered by **non-disclosure agreements** — I work primarily with clients and teams on private, proprietary products. My GitHub commit graph won't tell you much, but my portfolio will.
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🌐 Portfolio | Next.js, Vercel | My personal portfolio showcasing projects & skills |
-| 🔧 *More coming soon...* | React / Node / Python | Currently building & open-sourcing new projects |
+<div align="center">
+
+[![See My Work](https://img.shields.io/badge/View%20Portfolio-samridhi--narang.vercel.app-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://samridhi-narang.vercel.app/)
+
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
+I'm always open to interesting conversations, freelance work, or new opportunities.
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samridhi6112/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://samridhi-narang.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samridhi6112/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Projects-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://samridhi-narang.vercel.app/)
 
 </div>
 
